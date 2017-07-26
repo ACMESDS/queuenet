@@ -1,0 +1,19 @@
+{
+  "name": "queuenet",
+  "version": "1.0.0",
+  "description": "Template interface for TOTEM modules",
+  "main": "queuenet.js",
+  "scripts": {
+    "test": "node test.js X1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmesds/queuenet.git"
+  },
+  "author": "totem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmesds/queuenet/issues"
+  },
+  "homepage": "https://github.com/acmesds/queuenet#readme"
+}
